@@ -1,0 +1,27 @@
+.normalBtn {
+    align-items: center;
+    
+  }
+  
+  .normalBtn > button {
+    width: 600px;
+    height: 120px;
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border-style: none;
+    margin: 10px;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 36px;
+    line-height: 125%;
+    /* or 45px */
+
+    text-align: center;
+    letter-spacing: 0.1em;
+  }
+
+
+  

@@ -1,0 +1,21 @@
+.orders__container{
+    height: auto;
+    text-align: center;
+    align-self: center;
+    align-items: center;
+  }
+    
+  .table__data > td{
+    padding: 10px;
+    font-size: 100%;
+  }
+  
+  .table__header > td{
+    padding: 10px;
+    font-family: ubuntu;
+    font-weight: bold;
+    font-size: 150%;
+    color: #1b93c7;
+    
+  }
+    

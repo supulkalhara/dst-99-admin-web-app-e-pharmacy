@@ -1,0 +1,56 @@
+.viewContainer {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: groove;
+  border-radius: 5px;
+}
+.viewOrder {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 100%;
+}
+.orderH3 {
+  color: #0a5081;
+  align-self: center;
+  margin-bottom: 4%;
+}
+
+.prescription > img {
+  object-fit: contain;
+  width: 520px;
+}
+
+.buttonSection {
+  display: flex;
+  width: 60%;
+  justify-content: space-between;
+  margin-bottom: 3%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+}
+.buttonSection > button {
+  width: 200px;
+  height: 50px;
+  border-radius: 20px;
+  border-style: none;
+  cursor: pointer;
+}
+.buttonSection button :hover {
+  background-color: aqua;
+}
+.deliver {
+  margin-left: auto;
+  margin-right: auto;
+}
+.Decline {
+  border-color: black !important;
+}

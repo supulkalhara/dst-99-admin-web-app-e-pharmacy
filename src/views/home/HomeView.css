@@ -1,0 +1,21 @@
+.viewOrder {
+    display: flex;
+    flex-direction: column;
+  }
+  .orders__container {
+    width:  auto;
+    height: auto;
+    align-self: center;
+  }
+  
+  h3 {
+    font-family: ubuntu;
+    font-weight: bold;
+    font-size: 50px;
+    color: #1b93c7;
+    margin-top: 10px;
+    text-align: center;
+  }
+
+
+  

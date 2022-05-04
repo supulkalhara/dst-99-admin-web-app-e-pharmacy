@@ -1,0 +1,28 @@
+.subHeader {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.back {
+  object-fit: contain;
+  margin-left: 3%;
+  cursor: pointer;
+}
+
+
+
+@media screen and (max-width: 767px) {
+  .epharmacyLogo {
+    object-fit: contain;
+    height: 40px;
+    width: 200px;
+    margin-right: 2%;
+  }
+  .back{
+    height: 40px;
+    width: 40px;
+    align-items: left;
+  }
+}

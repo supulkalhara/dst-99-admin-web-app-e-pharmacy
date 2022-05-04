@@ -1,0 +1,10 @@
+.error {
+  text-align: center;
+}
+.error h3 {
+  align-self: center;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: ubuntu;
+  color: #03141b;
+}

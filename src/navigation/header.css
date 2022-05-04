@@ -1,0 +1,26 @@
+.header {
+  top: 10px;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
+  z-index: 999;
+}
+.header__left {
+  margin-left: 20px;
+}
+.header__right {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+img{
+  position: left;
+  margin-top: 7px;
+}
+
+.my{
+  margin-right: 10px;
+  margin-left: 50px;
+}
